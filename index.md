@@ -37,4 +37,4 @@ En een gelukkig nieuw jaar!
 
 Elise en Sander
 
-![picture](vernon-raineil-cenzon-EciYoOAwARs-unsplash.jpg){:class="img-responsive"}
+![picture](rodion-kutsaev-ySNkCkdKyTY-unsplash.jpg){:class="img-responsive"}
