@@ -36,3 +36,5 @@ We wensen jullie voor 2021
 En een gelukkig nieuw jaar!
 
 Elise en Sander
+
+![picture](/image.jpg){:class="img-responsive"}
