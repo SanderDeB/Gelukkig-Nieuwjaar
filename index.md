@@ -13,6 +13,7 @@ Hoewel we allemaal graag in levende lijve afspreken, zal die digitale veranderin
 Videobellen, meer e-mailverkeer en online bestellingen zijn vanaf nu dagelijkse kost.
 Toch komen al deze digitale snufjes niet altijd zonder zorgen.
 Een hulplijn kan dan al eens van pas komen om bepaalde obstakels te overbruggen.
+
 Daarom schenken wij jullie één jaar lang ondersteuning voor al jullie IT-gerelateerde vragen.
 Sander-Consulting staat klaar voor ondersteuning bij al jullie problemen.
 Telefoneren, videobellen, e-mails en zelfs (hopelijk) fysieke bezoekjes behoren tot de ondersteuningsmodaliteiten.
